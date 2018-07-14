@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Ubuntu
+  image: https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png
+networq:os:distribution:
+  os: networq:os:linux

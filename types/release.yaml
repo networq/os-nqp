@@ -1,0 +1,7 @@
+name: release
+labelPlural: Releases
+labelSingular: Release
+
+fields:
+  distribution:
+    type: networq:os:distribution

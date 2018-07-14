@@ -1,0 +1,11 @@
+<ul class="list-group">
+  {% for d in node['networq:os:os']['distributions'] %}
+
+    <li class="list-group-item">
+        <h3>
+          {{ d['networq:core:node']['name']}}
+        </h3>
+        {{ d|nodeButton|raw }}
+    </li>
+  {% endfor %}
+</ul>

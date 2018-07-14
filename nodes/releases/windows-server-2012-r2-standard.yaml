@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Windows Server 2012 R2 Standard
+  image: https://www.coolhousing.net/images/stories/blog/Microsoft_Windows_Server_2012_R2_Logo.png
+networq:os:release:
+  distribution: networq:os:windows-server

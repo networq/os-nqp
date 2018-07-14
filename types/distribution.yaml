@@ -1,0 +1,10 @@
+name: distribution
+labelPlural: Distributions
+labelSingular: Distribution
+
+fields:
+  os:
+    type: networq:os:os
+  releases:
+    type: networq:os:release[]
+    reverse: distribution

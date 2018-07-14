@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Microsoft Windows
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Windows_logo_-_2002%E2%80%932012_%28Multicolored%29.svg/348px-Windows_logo_-_2002%E2%80%932012_%28Multicolored%29.svg.png
+networq:os:os: ~

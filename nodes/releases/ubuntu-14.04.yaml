@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Ubuntu 14.04 LTS (Trusty Tahr)
+networq:os:release:
+  distribution: networq:os:ubuntu

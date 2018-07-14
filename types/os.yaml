@@ -1,0 +1,8 @@
+name: os
+labelPlural: Operating systems
+labelSingular: Operating system
+
+fields:
+  distributions:
+    type: networq:os:distribution[]
+    reverse: os

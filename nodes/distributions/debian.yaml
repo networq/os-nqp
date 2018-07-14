@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Debian
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Ardebian_logo_512_0.png
+networq:os:distribution:
+  os: networq:os:linux

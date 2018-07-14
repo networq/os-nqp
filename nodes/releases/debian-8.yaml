@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Debian 8 (Jessie)
+networq:os:release:
+  distribution: networq:os:debian

@@ -1,0 +1,11 @@
+<ul class="list-group">
+  {% for r in node['networq:os:distribution']['releases'] %}
+
+    <li class="list-group-item">
+        <h3>
+          {{ r['networq:core:node']['name']}}
+        </h3>
+        {{ r|nodeButton|raw }}
+    </li>
+  {% endfor %}
+</ul>

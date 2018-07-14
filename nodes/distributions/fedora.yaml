@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Fedora
+  image: https://fedoramagazine.org/wp-content/uploads/2013/09/fedora_infinity.png
+networq:os:distribution:
+  os: networq:os:linux

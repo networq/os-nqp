@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Windows Server 2016 Standard
+  image: https://www.nhlondon.com/Portals/109/EasyDNNNews/156235/600600p69023EDNmainwindows-server-2016.png
+networq:os:release:
+  distribution: networq:os:windows-server

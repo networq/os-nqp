@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Windows Server
+networq:os:distribution:
+  os: networq:os:windows

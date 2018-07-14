@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Debian 9 (Stretch)
+networq:os:release:
+  distribution: networq:os:debian

@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Ubuntu 16.04 LTS (Xenial Xerus)
+networq:os:release:
+  distribution: networq:os:ubuntu

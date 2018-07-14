@@ -1,0 +1,16 @@
+name: networq:os
+description: Operating System (OS) types and nodes
+license: MIT
+
+dependencies:
+  networq:core: latest
+
+widgets:
+  distributionReleasesTab:
+    type: networq:os:distribution
+    hook: tabs
+    label: Releases
+  osDistributionsTab:
+    type: networq:os:os
+    hook: tabs
+    label: Distributions

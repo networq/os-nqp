@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Fedora 29
+networq:os:release:
+  distribution: networq:os:fedora

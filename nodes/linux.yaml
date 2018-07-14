@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Linux
+  image: http://www.deepnetsecurity.com/wp-content/uploads/2014/03/linux-logo.jpg
+networq:os:os: ~
